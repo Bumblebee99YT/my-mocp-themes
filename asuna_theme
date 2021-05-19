@@ -1,0 +1,35 @@
+# Author: Bumblebee99
+# Theme: Asuna
+
+background          = red	white
+frame               = red	white   bold
+window_title        = red	white   bold
+directory           = red	white	bold
+selected_directory  = white     red
+playlist            = red	white   bold
+selected_playlist   = white     red
+file                = red	white
+selected_file       = white     red
+marked_file         = red	white   bold
+marked_selected_file = white    red     bold
+info                = red       white   bold
+status              = red      	white   bold
+title               = red	white   bold
+state               = red       white   bold
+current_time        = red       white   bold
+time_left           = red       white   bold
+total_time          = red       white   bold
+time_total_frames   = red       white   bold
+sound_parameters    = red       white   bold
+legend              = red       white   bold
+disabled            = white     white
+enabled             = red       white   bold
+empty_mixer_bar     = red	white	bold
+filled_mixer_bar    = white	red
+empty_time_bar      = white     white   bold
+filled_time_bar     = white     red
+entry               = red       white   bold
+entry_title         = red       white   bold
+error               = red       white   bold
+message             = red       white   bold
+plist_time          = white	red	bold
